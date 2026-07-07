@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>4.0.7</version>
+		<version>4.1.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>boot.rest.jpa</groupId>
-	<artifactId>bootrestbook</artifactId>
+	<groupId>example.employee</groupId>
+	<artifactId>restemployeeboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bootrestbook</name>
+	<name>restemployeeboot</name>
 	<description/>
 	<url/>
 	<licenses>
